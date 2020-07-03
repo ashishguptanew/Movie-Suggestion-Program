@@ -2,7 +2,7 @@
 
 ## In this program, we've created movie suggestions engine for four users which includes,
 
-  - movie type, 
-  - country of the movie, 
-  - popular actor, 
-  - year category.
+  - Movie type, 
+  - Country of the movie, 
+  - Popular actor, 
+  - Year category.
